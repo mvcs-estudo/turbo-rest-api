@@ -1,0 +1,13 @@
+{
+  "name": "Giants",
+  "city": "New York",
+  "conference": "nfc"
+} {
+  "name": "Patriots",
+  "city": "new england",
+  "conference": "afc"
+} {
+  "name": "Texans",
+  "city": "houston",
+  "conference": "afc"
+}
